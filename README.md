@@ -9,10 +9,10 @@ Esta es la entrega del Modulo 1:  Creación de Textos e Hipertextos.
     
   [CV Actualizado Junio](https://github.com/MariaCle/CV_TyHM1/blob/main/CV.pdf)
     
-    <p>
+   <p>
       
-     Tarea de Traducción del Capitulo 10 
+   Tarea de Traducción del Capitulo 10 
       
-     <p>
+   <p>
         
-       [Traducción](https://github.com/MariaCle/CV_TyHM1/blob/main/Traduccion_capitulo_10_CLEMENT_pdf.pdf)
+   [Traducción](https://github.com/MariaCle/CV_TyHM1/blob/main/Traduccion_capitulo_10_CLEMENT_pdf.pdf)
