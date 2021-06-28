@@ -7,7 +7,7 @@ Esta es la entrega del Modulo 1:  Creación de Textos e Hipertextos.
   
   <p>
     
-    <a href="https://github.com/MariaCle/CV-TyHM1/blob/main/CV.pdf"> CV Actualizado Junio 2021</a>
+  <a href="https://github.com/MariaCle/CV-TyHM1/blob/main/CV.pdf">CV Actualizado Junio 2021</a>
     
    <p>
       
